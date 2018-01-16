@@ -7,7 +7,7 @@ The model has been developed in Matlab version R2017a.
 ## List of parameters
 |Paper name      |model name                     |
 |----------------|-------------------------------|
-| $c_\lambda$             | `par.id.cl`                      |
+| katex.render("$c_\lambda$", element);             | `par.id.cl`                      |
 | $\widetilde b_\lambda$  | `par.id.bl`                      |
 | $a_{\epsilon1}$         | `par.id.ae1`                     |    
 | $a_{\epsilon2}$         | `par.id.ae2`                     |           
